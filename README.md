@@ -5,7 +5,7 @@ Natural Language Processing (NLP) is a subfield of linguistics, computer science
 
 This technology is one of the most broadly applied areas of machine learning and is critical in effectively analyzing massive quantities of unstructured, text-heavy data. As AI continues to expand, so will the demand for professionals skilled at building models that analyze speech and language, uncover contextual patterns, and produce insights from text and audio.
 
-In this Specialization, I design NLP applications that perform question-answering and sentiment analysis, create tools to translate languages and summarize text, and even build chatbots. These and other NLP applications are going to be at the forefront of the coming transformation to an AI-powered future. This Specialization will teachs machine learning basics and state-of-the-art deep learning techniques needed to build cutting-edge NLP systems:
+In this Specialization, I designed NLP applications that perform question-answering and sentiment analysis, created tools to translate languages and summarize text, and even build chatbots. These and other NLP applications are going to be at the forefront of the coming transformation to an AI-powered future. This Specialization will teachs machine learning basics and state-of-the-art deep learning techniques needed to build cutting-edge NLP systems:
 
 ### Courses
 - Course 1: Classification and Vector Spaces
